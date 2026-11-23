@@ -1,0 +1,3 @@
+ticket_id,customer_tier,channel,category,subject,body,sentiment_score,prior_tickets_30d,order_value_usd,refund_requested_usd,hours_open,sla_hours,sla_pct_used,classifier_confidence
+RT3-01,Standard,Email,Billing,Invoice question,What is the $12.40 fee on my invoice?,7.5,0,310,0,3,24,12.5,0.93
+RT3-08,Standard,Email,General,Contact update (control),Please update my phone number.,0.1,0,0,0,2,24,8.3,0.96
