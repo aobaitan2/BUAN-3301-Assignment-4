@@ -3,7 +3,7 @@
 **BUAN 3301: AI in Business, Assignment 4**
 Author: Adrian Obaitan
 
-**Video pitch:** 
+**Video pitch:** https://drive.google.com/file/d/1Y6_Vngfmqux7SMjg7dIt7oqqGZksP7qm/view?usp=sharing
 
 A working prototype of an AI agent that triages customer support tickets. It classifies each ticket, assigns a priority, routes it to the right queue, drafts a reply when it is safe to do so, and then **pauses for human approval** before anything is finalized.
 
